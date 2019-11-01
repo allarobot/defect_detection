@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f0c24d2-5ba6-45ce-bbda-7556cbe6d8eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/blobdetection/blob.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blobdetection/blob_monitor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blobdetection/blob_register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blobdetection/data/BlobTest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blobdetection/data/BlobTest2b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blobdetection/data/BlobTest2c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blobdetection/data/blob_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blobdetection/reference/lec08_blob.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blobdetection/blob.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/blobdetection/blob.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blobdetection/blob_monitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/blobdetection/blob_monitor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blobdetection/blob_register.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/blobdetection/blob_register.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blobdetection/blob.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="17" />
+            <state relative-caret-position="135">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <element signature="e#19#29#0" expanded="true" />
               </folding>
@@ -47,11 +42,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blobdetection/blob_register.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+            <state relative-caret-position="106">
+              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
               <folding>
                 <element signature="e#88#98#0" expanded="true" />
               </folding>
@@ -59,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/blobdetection/blob_monitor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            <state relative-caret-position="136">
+              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
               <folding>
                 <element signature="e#84#94#0" expanded="true" />
               </folding>
@@ -102,14 +97,14 @@
         <option value="$PROJECT_DIR$/src/blobdetection/blob_detection.py" />
         <option value="$PROJECT_DIR$/src/blobdetection/detection.py" />
         <option value="$PROJECT_DIR$/src/blobdetection/blob.py" />
-        <option value="$PROJECT_DIR$/src/blobdetection/blob_monitor.py" />
         <option value="$PROJECT_DIR$/src/blobdetection/blob_register.py" />
+        <option value="$PROJECT_DIR$/src/blobdetection/blob_monitor.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="125" />
-    <option name="y" value="79" />
+    <option name="x" value="58" />
+    <option name="y" value="271" />
     <option name="width" value="1276" />
     <option name="height" value="818" />
   </component>
@@ -260,6 +255,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="125" y="79" width="1276" height="818" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24940239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -298,30 +294,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blobdetection/blob.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="17" />
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
             <element signature="e#19#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blobdetection/blob_monitor.py">
+    <entry file="file://$PROJECT_DIR$/src/blobdetection/blob_register.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        <state relative-caret-position="106">
+          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
           <folding>
-            <element signature="e#84#94#0" expanded="true" />
+            <element signature="e#88#98#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blobdetection/blob_register.py">
+    <entry file="file://$PROJECT_DIR$/src/blobdetection/blob_monitor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        <state relative-caret-position="136">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
           <folding>
-            <element signature="e#88#98#0" expanded="true" />
+            <element signature="e#84#94#0" expanded="true" />
           </folding>
         </state>
       </provider>

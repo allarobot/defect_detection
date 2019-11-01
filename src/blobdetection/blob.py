@@ -7,7 +7,7 @@ https://www.learnopencv.com/blob-detection-using-opencv-python-c/
 """
 
 import cv2
-import numpy as np;
+import numpy as np
 
 
 def createDetector():

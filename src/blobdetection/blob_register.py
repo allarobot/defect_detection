@@ -9,7 +9,6 @@ import cv2
 import pickle
 import blob
 
-
 # Read image
 fileName = "data/BlobTest2.jpg"
 im = cv2.imread(fileName, cv2.IMREAD_GRAYSCALE)

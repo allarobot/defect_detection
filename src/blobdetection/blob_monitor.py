@@ -4,8 +4,9 @@ monitor blob variation with a reference points data
 this is a runtime operation code
 """
 
+
 import cv2
-import numpy as np;
+import numpy as np
 import pickle
 import blob
 
@@ -18,7 +19,13 @@ pnts_ref = pickle.load(file)
 file.close()
 
 
-def monitor(pnts1,pnts2):
+def monitor(pnts1, pnts2):
+    '''
+    check the appearance of reference key points
+    :param pnts1: reference key points
+    :param pnts2: realtime detection key points
+    :return: key points which are disappeared
+    '''
     keypoints = []
     for pt, size in pnts1:
         keypoint = cv2.KeyPoint(pt[0], pt[1], size)
